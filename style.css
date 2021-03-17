@@ -1,8 +1,10 @@
 body {
   background-color: rgb(68, 139, 187);
 }
-#judul {
+h1 {
   text-align: center;
+}
+#judul {
   width: 30%;
   margin: auto;
 }
@@ -14,9 +16,11 @@ img {
 }
 
 #profil {
+  text-align: center;
   border-style: inset;
 }
 #biodata {
+  text-align: center;
   border-style: inset;
 }
 
@@ -25,5 +29,6 @@ del {
 }
 
 #motto {
+  text-align: center;
   border-style: inset;
 }
