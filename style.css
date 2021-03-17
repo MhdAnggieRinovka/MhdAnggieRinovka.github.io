@@ -32,3 +32,7 @@ del {
   text-align: center;
   border-style: inset;
 }
+
+#judul p {
+  text-align: justify;
+}
