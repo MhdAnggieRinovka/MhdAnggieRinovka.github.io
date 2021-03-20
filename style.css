@@ -47,3 +47,7 @@ p {
 blockquote {
   font: 15px Arial, sans-serif;
 }
+
+#tanggal {
+  display: none;
+}
